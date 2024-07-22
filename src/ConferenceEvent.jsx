@@ -140,7 +140,7 @@ const ConferenceEvent = () => {
     const venueTotalCost = calculateTotalCost("venue");
     const avTotalCost = calculateTotalCost("av");
     const mealsTotalCost = calculateTotalCost("meals");
-
+    
     const totalCosts = {
       venue: venueTotalCost,
       av: avTotalCost,

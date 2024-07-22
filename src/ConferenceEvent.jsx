@@ -134,7 +134,6 @@ const ConferenceEvent = () => {
               }
           });
         }  
-      }
         return totalCost;
       };
     const venueTotalCost = calculateTotalCost("venue");
